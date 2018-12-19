@@ -1,0 +1,20 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "Demo express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "demo",
+    "mongodb"
+  ],
+  "author": "Mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10"
+  }
+}
